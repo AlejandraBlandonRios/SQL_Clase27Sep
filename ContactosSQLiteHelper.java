@@ -11,7 +11,6 @@ import android.database.sqlite.SQLiteOpenHelper;
 public class ContactosSQLiteHelper extends SQLiteOpenHelper {
 
     private String DATA_BASE_NAME= "AgendaBD";
-    private String TABLE_CONTACTOS="Contactos";
     private int DATA_VERSION=1;
 
     String sqlCreate="CREATE TABLE Contactos (" +
