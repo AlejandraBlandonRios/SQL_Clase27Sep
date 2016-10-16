@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 /**
  * Created by USUARIO on 27/09/2016.
  */
-
+//Agrego comentatio
 public class ContactosSQLiteHelper extends SQLiteOpenHelper {
 
     private String DATA_BASE_NAME= "AgendaBD";
